@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "builds": [
+    {
+      "edition": "XBLA (World) release",
+      "xex_sha256": "87a7c33f5c039dc24796173e22d9ff0d16c5e3663b73f77cdc81fb020250979f",
+      "xex_size": 2285568,
+      "nro": "battleblock_theater.nro",
+      "nro_sha256": "02e60f6736785bbabb28e839222c68364c5fd1e1a1c9939f891bcbe6afc0e703",
+      "toml": "battleblock.toml"
+    }
+  ]
+}

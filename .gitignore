@@ -1,0 +1,8 @@
+# The NRO is a release asset of andresarevalo1/BattleBlockRecomp-NX.
+release/*.nro
+*.zip
+node_modules/
+__pycache__/
+
+# The built site lives in its own branch (gh-pages).
+_site/
